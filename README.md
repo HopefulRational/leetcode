@@ -84,8 +84,8 @@
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| 1|[865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
-| More Data | Centered    | Aligned    |
+| 1|[865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
+|2|[257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)|[Soluiton](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0257-Binary-Tree-Paths.md)|
 
 </details>
 
@@ -134,7 +134,7 @@
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| 1 | [808. Soup Servings](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
+| 1 | [808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
 | More Data | Centered    | Aligned    |
 
 </details>
