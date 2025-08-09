@@ -88,6 +88,7 @@
 |2|[257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)|[Soluiton](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0257-Binary-Tree-Paths.md)|
 |3|[515. Find Largest Value in Each Tree Row (Medium)](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0515-Largest-Value-in-Each-Tree-Row.md)|
 |4|[1080. Insufficient Nodes in Root to Leaf Paths (Medium)](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1080-Insufficient-Nodes-in-Root-to-Leaf-Paths.md)|
+|5|[559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0559-Maximum-Depth-of-N-ary-Tree.md)|
 
 </details>
 
