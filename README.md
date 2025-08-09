@@ -84,7 +84,7 @@
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| Data 1    | Data 2      | Data 3     |
+| 1|[865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
 | More Data | Centered    | Aligned    |
 
 </details>
