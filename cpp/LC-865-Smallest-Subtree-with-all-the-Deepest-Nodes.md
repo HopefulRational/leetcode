@@ -39,7 +39,7 @@ The deepest node is 2 itself.
 - The number of nodes in the tree is in the range `[1, 500]`.
 - `0 <= Node.val <= 500`
 
-## Problem Statement
+## Solution
 ```cpp
 // https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solutions/146808/c-java-python-one-pass
 
