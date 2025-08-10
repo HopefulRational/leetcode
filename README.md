@@ -90,6 +90,7 @@
 |4|[1080. Insufficient Nodes in Root to Leaf Paths (Medium)](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1080-Insufficient-Nodes-in-Root-to-Leaf-Paths.md)|
 |5|[559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0559-Maximum-Depth-of-N-ary-Tree.md)|
 |6|[979. Distribute Coins in Binary Tree (Medium)](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0979-Distribute-Coins-in-Binary-Tree.md)|
+|7|[968. Binary Tree Cameras (Hard)](https://leetcode.com/problems/binary-tree-cameras/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0968-Binary-Tree-Cameras.md)|
 
 </details>
 
