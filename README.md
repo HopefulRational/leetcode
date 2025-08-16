@@ -44,7 +44,7 @@
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| Data 1    | Data 2      | Data 3     |
+|1|[930. Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0930-Binary-Subarrays-with-Sum.md)|
 | More Data | Centered    | Aligned    |
 
 </details>
