@@ -110,7 +110,7 @@
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
 |1|[130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
-| More Data | Centered    | Aligned    |
+|2|[990. Satisfiability of Equality Equations (Medium)](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0990-Satisfiability-of-Equality-Equations.md)|
 
 </details>
 
