@@ -111,6 +111,7 @@
 |-----------|-------------|------------|
 |1|[130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 |2|[990. Satisfiability of Equality Equations (Medium)](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0990-Satisfiability-of-Equality-Equations.md)|
+|3|[994. Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0994-Rotting-Oranges.md)|
 
 </details>
 
