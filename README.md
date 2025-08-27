@@ -1,4 +1,5 @@
 # leetcode solutions
+[LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
 <summary>Array & Hashing</summary>
 
