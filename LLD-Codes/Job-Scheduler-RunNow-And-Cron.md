@@ -462,3 +462,28 @@ int main()
     return 0;
 }
 ```
+#### Sample output
+```
+[email] sending welcome...
+idempotency: j1=J-1 j1b=J-1
+[flacky] attempt 1
+[cron] heartbeat at Wed Aug 27 15:13:10 2025
+[flacky] attempt 2
+[flacky] attempt 3
+[cron] heartbeat at Wed Aug 27 15:13:11 2025
+[cron] heartbeat at Wed Aug 27 15:13:12 2025
+[cron] heartbeat at Wed Aug 27 15:13:13 2025
+=== JOBS ===
+J-6 [to-cancel] kind=now status=cancelled attempts=0 nextRunAt=Wed Aug 27 15:13:10 2025
+J-5 [cron:at10s] kind=cron status=pending attempts=0 nextRunAt=Thu Aug 28 15:13:09 2025
+J-4 [cron:heartbeat] kind=cron status=pending attempts=0 nextRunAt=Wed Aug 27 15:13:14 2025
+J-3 [flacky:payment-callback] kind=now status=succeeded attempts=0 nextRunAt=Wed Aug 27 15:13:10 2025
+J-1 [email:welcome] kind=now status=succeeded attempts=0 nextRunAt=Wed Aug 27 15:13:10 2025
+[cron] heartbeat at Wed Aug 27 15:13:14 2025
+[cron] heartbeat at Wed Aug 27 15:13:15 2025
+[cron] heartbeat at Wed Aug 27 15:13:16 2025
+[cron] heartbeat at Wed Aug 27 15:13:17 2025
+[cron] heartbeat at Wed Aug 27 15:13:18 2025
+[cron] heartbeat at Wed Aug 27 15:13:19 2025
+Done.
+```
