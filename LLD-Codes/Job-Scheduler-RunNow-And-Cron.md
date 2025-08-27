@@ -15,7 +15,7 @@
 
 ## 3. Design Highlights
 - **Core data structure**: a min-heap ordered by `nextRunAt`. Workers pop due jobs; if early, they sleep until due time (can cause starvation).
-- **Cron support**: "sec min hour". `*`, `*/N`, fixed values. Next schedule computed by scalling seconds up to 24h.
+- **Cron support**: "sec min hour". `*`, `*/N`, fixed values. Next schedule computed by scanning seconds up to 24h.
 - **Reliability**
   - **Retries** with exponential backoff.
   - **Idempotency keys** for run-now jobs to dedupe producer delays.
