@@ -8,10 +8,10 @@
 - Graceful Shutdown -> Stop accepting new jobs but finish running ones.
 
 ## 2. Design Patterns Used
-- Command Pattern -> Each job encapsulates execution logic.
-- Observer Pattern -> Notify listeners on job success/failure.
-- Singleton Pattern -> Global Scheduler isntance.
-- Strategy Pattern -> For different scheduling strategies (RunNow, Cron).
+- Command -> Each job encapsulates execution logic.
+- Observer -> Notify listeners on job success/failure.
+- Singleton -> Global Scheduler isntance.
+- Strategy -> For different scheduling strategies (RunNow, Cron).
 
 ## 3. Design Highlights
 - **Core data structure**: a min-heap ordered by `nextRunAt`. Workers pop due jobs; if early, they sleep until due time (can cause starvation).
