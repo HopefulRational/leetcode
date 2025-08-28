@@ -4,7 +4,7 @@
 - Focus sessions (do not distorb / block apps during sessions)
 - App limits with enforcement (block after limit reached)
 - Notifications/alerts
-- PArental control (enforce hard limits for child accounts)
+- Parental control (enforce hard limits for child accounts)
 - Background aggregator that persists daily counters (in-memory demo)
 - Simple reporting (daily/weekly summary)
 - Thread-sefaty and a simulated event generator
