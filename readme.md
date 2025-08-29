@@ -1,6 +1,32 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
+<summary>All Solutions</summary>
+
+| Num       | Problem     | Solution   |
+|-----------|-------------|------------|
+|1|[130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
+|2|[133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
+|3|[257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)|[Soluiton](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0257-Binary-Tree-Paths.md)|
+|4|[515. Find Largest Value in Each Tree Row (Medium)](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0515-Largest-Value-in-Each-Tree-Row.md)|
+|5|[559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0559-Maximum-Depth-of-N-ary-Tree.md)|
+|6|[684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0684-Redundant-Connection.md)|
+|7|[808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
+|8|[865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
+|9|[930. Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0930-Binary-Subarrays-with-Sum.md)|
+|10|[968. Binary Tree Cameras (Hard)](https://leetcode.com/problems/binary-tree-cameras/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0968-Binary-Tree-Cameras.md)|
+|11|[979. Distribute Coins in Binary Tree (Medium)](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0979-Distribute-Coins-in-Binary-Tree.md)|
+|12|[981. Time Based Key-Value Store (Medium)](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0981-Time-Based-Key-Value-Store.md)|
+|13|[988. Smallest String Starting From Leaf (Medium)](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0988-Smallest-String-Starting-From-Leaf.md)|
+|14|[990. Satisfiability of Equality Equations (Medium)](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0990-Satisfiability-of-Equality-Equations.md)|
+|15|[994. Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0994-Rotting-Oranges.md)|
+|16|[1080. Insufficient Nodes in Root to Leaf Paths (Medium)](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1080-Insufficient-Nodes-in-Root-to-Leaf-Paths.md)|
+|17|[1559. Detect Cycles in 2D Grid (Medium)](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1559-Detect-Cycles-in-2D-Grid.md)|
+
+
+</details>
+
+<details>
 <summary>Array & Hashing</summary>
 
 | Num       | Problem     | Solution   |
