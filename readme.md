@@ -114,6 +114,7 @@
 |2|[990. Satisfiability of Equality Equations (Medium)](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0990-Satisfiability-of-Equality-Equations.md)|
 |3|[994. Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0994-Rotting-Oranges.md)|
 |4|[1559. Detect Cycles in 2D Grid (Medium)](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1559-Detect-Cycles-in-2D-Grid.md)|
+|5|[684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0684-Redundant-Connection.md)|
 
 </details>
 
