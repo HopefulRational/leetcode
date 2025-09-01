@@ -8,6 +8,7 @@
 |-------------|------------|
 |[39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
+|[124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
 [257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)|[Soluiton](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0257-Binary-Tree-Paths.md)|
@@ -136,6 +137,7 @@
 |7|[968. Binary Tree Cameras (Hard)](https://leetcode.com/problems/binary-tree-cameras/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0968-Binary-Tree-Cameras.md)|
 |8|[988. Smallest String Starting From Leaf (Medium)](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0988-Smallest-String-Starting-From-Leaf.md)|
 |9|[543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0543-Diameter-of-Binary-Tree.md)|
+|10|[124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
 
 </details>
 
