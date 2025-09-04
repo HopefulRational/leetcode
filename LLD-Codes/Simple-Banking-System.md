@@ -25,9 +25,9 @@
 - **Polymorphism**: `Account` base class with `SavingsAccount` and `CurrentAccount`
 - **Extensibility**: Easy to add new accounts/transactions
 
-- ## Implementation
-- ```cpp
-  #include <string>
+## Implementation
+```cpp
+#include <string>
 #include <memory>
 #include <stdexcept>
 #include <vector>
@@ -256,7 +256,7 @@ int main() {
 
     return 0;
  }
-- ```
+```
 
   #### Sample output
   ```
