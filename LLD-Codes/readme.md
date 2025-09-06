@@ -9,3 +9,4 @@
 |Parking Lot Application|[Solution](https://github.com/HopefulRational/leetcode/blob/main/LLD-Codes/Parking-Lot.md)|
 |Elevator System|[Solution](https://github.com/HopefulRational/leetcode/blob/main/LLD-Codes/Elevator-System.md)|
 |Food Delivery App|[Solution](https://github.com/HopefulRational/leetcode/blob/main/LLD-Codes/Food-Delivery-App.md)|
+|Ride Hailing App|[Solution](https://github.com/HopefulRational/leetcode/blob/main/LLD-Codes/Ride-Hailing-App.md)|
