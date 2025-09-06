@@ -8,3 +8,4 @@
 |Simple Fitness Tracking App|[Solution](https://github.com/HopefulRational/leetcode/blob/main/LLD-Codes/Simple-Fitness-Tracking-App.md)|
 |Parking Lot Application|[Solution](https://github.com/HopefulRational/leetcode/blob/main/LLD-Codes/Parking-Lot.md)|
 |Elevator System|[Solution](https://github.com/HopefulRational/leetcode/blob/main/LLD-Codes/Elevator-System.md)|
+|Food Delivery App|[Solution](https://github.com/HopefulRational/leetcode/blob/main/LLD-Codes/Food-Delivery-App.md)|
