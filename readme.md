@@ -7,6 +7,7 @@
 | Problem     | Solution   |
 |-------------|------------|
 |[39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
+[49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
 |[124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
@@ -41,6 +42,7 @@
 |-----------|-------------|------------|
 |1|[981. Time Based Key-Value Store (Medium)](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0981-Time-Based-Key-Value-Store.md)|
 |2|[242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0242-Valid-nagram.md)|
+|3|[49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
 
 </details>
 
