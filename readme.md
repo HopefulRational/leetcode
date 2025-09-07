@@ -1,17 +1,18 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 27  
+  Total : 28  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
 |-------------|------------|
 [Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
-|[39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
+[39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
 [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
-|[124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
+[124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
+[125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0125-Valid-Palindrome.md)|
 [128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0128-Longest-Consecutive-Sequence.md)|
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
@@ -52,6 +53,9 @@
 
 </details>
 
+<!--------------------------------------------------------------------------------------------->
+<!---------------------------------------- LINKED LIST ---------------------------------------->
+<!--------------------------------------------------------------------------------------------->
 <details>
 <summary>Linked List</summary>
 
@@ -62,6 +66,9 @@
 
 </details>
 
+<!--------------------------------------------------------------------------------------------->
+<!-------------------------------------- STACKS & QUEUES -------------------------------------->
+<!--------------------------------------------------------------------------------------------->
 <details>
 <summary>Stacks & Queues</summary>
 
@@ -72,16 +79,21 @@
 
 </details>
 
+<!--------------------------------------------------------------------------------------------->
+<!--------------------------------------- TWO POINTERS ---------------------------------------->
+<!--------------------------------------------------------------------------------------------->
 <details>
 <summary>Two Pointers</summary>
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| Data 1    | Data 2      | Data 3     |
-| More Data | Centered    | Aligned    |
+|1|[125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0125-Valid-Palindrome.md)|
 
 </details>
 
+<!--------------------------------------------------------------------------------------------->
+<!-------------------------------------- SLIDING WINDOW --------------------------------------->
+<!--------------------------------------------------------------------------------------------->
 <details>
 <summary>Sliding Window</summary>
 
