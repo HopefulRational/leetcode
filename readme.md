@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 30  
+  Total : 31  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -41,6 +41,9 @@
 
 </details>
 
+<!--------------------------------------------------------------------------------------------->
+<!-------------------------------------- ARRAY & HASHING -------------------------------------->
+<!--------------------------------------------------------------------------------------------->
 <details>
 <summary>Array & Hashing</summary>
 
