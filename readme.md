@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 22  
+  Total : 23  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -26,6 +26,7 @@
 [988. Smallest String Starting From Leaf (Medium)](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0988-Smallest-String-Starting-From-Leaf.md)|
 [990. Satisfiability of Equality Equations (Medium)](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0990-Satisfiability-of-Equality-Equations.md)|
 [994. Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0994-Rotting-Oranges.md)|
+[1034. Coloring A Border (Medium)](https://leetcode.com/problems/coloring-a-border/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1034-Coloring-A-Border.md)|
 [1080. Insufficient Nodes in Root to Leaf Paths (Medium)](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1080-Insufficient-Nodes-in-Root-to-Leaf-Paths.md)|
 [1559. Detect Cycles in 2D Grid (Medium)](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1559-Detect-Cycles-in-2D-Grid.md)|
 
@@ -140,6 +141,7 @@
 |9|[543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0543-Diameter-of-Binary-Tree.md)|
 |10|[124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
 |11|[235. Lowest Common Ancestor of a Binary Search Tree (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0235-Lowest-Common-Ancestor-BST.md)|
+|12|[1034. Coloring A Border (Medium)](https://leetcode.com/problems/coloring-a-border/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1034-Coloring-A-Border.md)|
 
 </details>
 
