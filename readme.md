@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 29  
+  Total : 30  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -10,6 +10,7 @@
 [11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
+[42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0042-Trapping-Rain-Water.md)|
 [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
 [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
@@ -90,6 +91,7 @@
 |-----------|-------------|------------|
 |1|[125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0125-Valid-Palindrome.md)|
 |2|[11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
+|3|[42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0042-Trapping-Rain-Water.md)|
 
 </details>
 
