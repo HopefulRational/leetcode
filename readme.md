@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 26  
+  Total : 27  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -12,6 +12,7 @@
 [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
 |[124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
+[128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0128-Longest-Consecutive-Sequence.md)|
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0235-Lowest-Common-Ancestor-BST.md)|
@@ -47,6 +48,7 @@
 |3|[49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
 |4|[Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
 |5|[36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
+|6|[128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0128-Longest-Consecutive-Sequence.md)|
 
 </details>
 
