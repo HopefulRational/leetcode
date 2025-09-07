@@ -1,12 +1,13 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 28  
+  Total : 29  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
 |-------------|------------|
 [Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
+[11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
 [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
@@ -88,6 +89,7 @@
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
 |1|[125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0125-Valid-Palindrome.md)|
+|2|[11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
 
 </details>
 
