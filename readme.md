@@ -23,7 +23,7 @@
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0235-Lowest-Common-Ancestor-BST.md)|
 [242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0242-Valid-nagram.md)|
 [257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)|[Soluiton](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0257-Binary-Tree-Paths.md)|
-[424. Longest Repeating Character Replacement(Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
+[424. Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
 [515. Find Largest Value in Each Tree Row (Medium)](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0515-Largest-Value-in-Each-Tree-Row.md)|
 [543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0543-Diameter-of-Binary-Tree.md)|
 [559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0559-Maximum-Depth-of-N-ary-Tree.md)|
@@ -112,7 +112,7 @@
 |1|[930. Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0930-Binary-Subarrays-with-Sum.md)|
 |2|[121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0121-Best-Time-To-Buy-And-Sell-Stock.md)|
 |3|[3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
-|4|[424. Longest Repeating Character Replacement(Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
+|4|[424. Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
 
 </details>
 
