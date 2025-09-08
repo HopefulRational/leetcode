@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 31  
+  Total : 32  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -13,6 +13,7 @@
 [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0042-Trapping-Rain-Water.md)|
 [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
+[121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0121-Best-Time-To-Buy-And-Sell-Stock.md)|
 [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
 [125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0125-Valid-Palindrome.md)|
 [128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0128-Longest-Consecutive-Sequence.md)|
@@ -107,7 +108,7 @@
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
 |1|[930. Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0930-Binary-Subarrays-with-Sum.md)|
-| More Data | Centered    | Aligned    |
+|2|[121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0121-Best-Time-To-Buy-And-Sell-Stock.md)|
 
 </details>
 
