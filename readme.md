@@ -1,12 +1,13 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 32  
+  Total : 33  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
 |-------------|------------|
 [Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
+[3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
 [11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
@@ -109,6 +110,7 @@
 |-----------|-------------|------------|
 |1|[930. Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0930-Binary-Subarrays-with-Sum.md)|
 |2|[121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0121-Best-Time-To-Buy-And-Sell-Stock.md)|
+|3|[3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
 
 </details>
 
