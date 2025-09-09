@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 39  
+  Total : 40  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -16,6 +16,7 @@
 [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
 [76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)|[Soltion](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0076-Minimum-Window-Substring.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
+[84. Largest Rectangle in Histogram (Hard)](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0084-Largest-Rectangle-in-Histogram.md)|
 [121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0121-Best-Time-To-Buy-And-Sell-Stock.md)|
 [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
 [125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0125-Valid-Palindrome.md)|
@@ -89,6 +90,7 @@
 |-----------|-------------|------------|
 |1|[155. Min Stack (Medium)](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0155-Min-Stack.md)|
 |2|[22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0022-Generate-Parenthesis.md)|
+|3|[84. Largest Rectangle in Histogram (Hard)](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0084-Largest-Rectangle-in-Histogram.md)|
 
 </details>
 
