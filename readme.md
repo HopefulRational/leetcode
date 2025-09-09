@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 43  
+  Total : 44  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -24,6 +24,7 @@
 [128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0128-Longest-Consecutive-Sequence.md)|
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
+[153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
 [155. Min Stack (Medium)](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0155-Min-Stack.md)|
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0235-Lowest-Common-Ancestor-BST.md)|
 [239. Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0239-Sliding-Window-Maximum.md)|
@@ -142,7 +143,7 @@
 |1|[704. Binary Search (Easy)](https://leetcode.com/problems/binary-search/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0704-Binary-Search.md)|
 |2|[74. Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0074-Search-a-2D-Matrix.md)|
 |3|[875. Koko Eating Bananas (Medium)](https://leetcode.com/problems/koko-eating-bananas/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0875-Koko-Eating-Bananas.md)|
-|||[Solution]()|
+|4|[153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
 
 </details>
 
