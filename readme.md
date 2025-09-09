@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 44  
+  Total : 46  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -17,6 +17,7 @@
 [74. Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0074-Search-a-2D-Matrix.md)|
 [76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)|[Soltion](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0076-Minimum-Window-Substring.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
+[81. Search in Rotated Sorted Array II (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0081-Search-in-Rotated-Sorted-Array-II.md)|
 [84. Largest Rectangle in Histogram (Hard)](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0084-Largest-Rectangle-in-Histogram.md)|
 [121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0121-Best-Time-To-Buy-And-Sell-Stock.md)|
 [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
@@ -144,6 +145,7 @@
 |2|[74. Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0074-Search-a-2D-Matrix.md)|
 |3|[875. Koko Eating Bananas (Medium)](https://leetcode.com/problems/koko-eating-bananas/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0875-Koko-Eating-Bananas.md)|
 |4|[153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
+|5|[81. Search in Rotated Sorted Array II (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0081-Search-in-Rotated-Sorted-Array-II.md)|
 
 </details>
 
