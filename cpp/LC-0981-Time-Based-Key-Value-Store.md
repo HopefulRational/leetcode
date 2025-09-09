@@ -57,6 +57,7 @@ timeMap.get(&quot;foo&quot;, 5);         // return &quot;bar2&quot;
 ## Solution
 ```cpp
 class TimeMap {
+	// key -> map(timestamp -> value)
     unordered_map<string, map<int, string, greater<>>> m;
 public:
     TimeMap() {
