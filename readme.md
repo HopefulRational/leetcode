@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 42  
+  Total : 43  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -39,6 +39,7 @@
 [808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
 [865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
 [853. Car Fleet (Medium)](https://leetcode.com/problems/car-fleet/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0853-Car-Fleet.md)|
+[875. Koko Eating Bananas (Medium)](https://leetcode.com/problems/koko-eating-bananas/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0875-Koko-Eating-Bananas.md)|
 [930. Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0930-Binary-Subarrays-with-Sum.md)|
 [968. Binary Tree Cameras (Hard)](https://leetcode.com/problems/binary-tree-cameras/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0968-Binary-Tree-Cameras.md)|
 [979. Distribute Coins in Binary Tree (Medium)](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0979-Distribute-Coins-in-Binary-Tree.md)|
@@ -140,6 +141,7 @@
 |-----------|-------------|------------|
 |1|[704. Binary Search (Easy)](https://leetcode.com/problems/binary-search/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0704-Binary-Search.md)|
 |2|[74. Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0074-Search-a-2D-Matrix.md)|
+|3|[875. Koko Eating Bananas (Medium)](https://leetcode.com/problems/koko-eating-bananas/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0875-Koko-Eating-Bananas.md)|
 |||[Solution]()|
 
 </details>
