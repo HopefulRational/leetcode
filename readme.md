@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 40  
+  Total : 41  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -36,6 +36,7 @@
 [684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0684-Redundant-Connection.md)|
 [808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
 [865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
+[853. Car Fleet (Medium)](https://leetcode.com/problems/car-fleet/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0853-Car-Fleet.md)|
 [930. Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0930-Binary-Subarrays-with-Sum.md)|
 [968. Binary Tree Cameras (Hard)](https://leetcode.com/problems/binary-tree-cameras/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0968-Binary-Tree-Cameras.md)|
 [979. Distribute Coins in Binary Tree (Medium)](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0979-Distribute-Coins-in-Binary-Tree.md)|
@@ -64,6 +65,7 @@
 |4|[Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
 |5|[36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
 |6|[128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0128-Longest-Consecutive-Sequence.md)|
+|7|[853. Car Fleet (Medium)](https://leetcode.com/problems/car-fleet/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0853-Car-Fleet.md)|
 
 </details>
 
