@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 41  
+  Total : 42  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -14,6 +14,7 @@
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
 [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0042-Trapping-Rain-Water.md)|
 [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
+[74. Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0074-Search-a-2D-Matrix.md)|
 [76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)|[Soltion](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0076-Minimum-Window-Substring.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
 [84. Largest Rectangle in Histogram (Hard)](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0084-Largest-Rectangle-in-Histogram.md)|
@@ -138,6 +139,8 @@
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
 |1|[704. Binary Search (Easy)](https://leetcode.com/problems/binary-search/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0704-Binary-Search.md)|
+|2|[74. Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0074-Search-a-2D-Matrix.md)|
+|||[Solution]()|
 
 </details>
 
