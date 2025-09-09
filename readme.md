@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 36  
+  Total : 37  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -22,6 +22,7 @@
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0235-Lowest-Common-Ancestor-BST.md)|
+[239. Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0239-Sliding-Window-Maximum.md)|
 [242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0242-Valid-nagram.md)|
 [257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)|[Soluiton](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0257-Binary-Tree-Paths.md)|
 [424. Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
@@ -117,6 +118,7 @@
 |4|[424. Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
 |5|[567. Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0567-Permutation-in-String.md)|
 |6|[76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)|[Soltion](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0076-Minimum-Window-Substring.md)|
+|7|[239. Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0239-Sliding-Window-Maximum.md)|
 
 </details>
 
