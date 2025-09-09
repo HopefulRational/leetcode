@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 34  
+  Total : 36  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -13,6 +13,7 @@
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
 [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0042-Trapping-Rain-Water.md)|
 [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0049-Group-Anagrams.md)|
+[76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)|[Soltion](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0076-Minimum-Window-Substring.md)|
 [78. Subsets (Medium)](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0078-Subsets.md)|
 [121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0121-Best-Time-To-Buy-And-Sell-Stock.md)|
 [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
@@ -115,6 +116,7 @@
 |3|[3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
 |4|[424. Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
 |5|[567. Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0567-Permutation-in-String.md)|
+|6|[76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)|[Soltion](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0076-Minimum-Window-Substring.md)|
 
 </details>
 
