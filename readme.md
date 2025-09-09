@@ -34,6 +34,7 @@
 [559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0559-Maximum-Depth-of-N-ary-Tree.md)|
 [567. Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0567-Permutation-in-String.md)|
 [684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0684-Redundant-Connection.md)|
+[704. Binary Search (Easy)](https://leetcode.com/problems/binary-search/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0704-Binary-Search.md)|
 [808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
 [865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
 [853. Car Fleet (Medium)](https://leetcode.com/problems/car-fleet/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0853-Car-Fleet.md)|
@@ -136,8 +137,7 @@
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| Data 1    | Data 2      | Data 3     |
-| More Data | Centered    | Aligned    |
+|1|[704. Binary Search (Easy)](https://leetcode.com/problems/binary-search/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0704-Binary-Search.md)|
 
 </details>
 
