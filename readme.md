@@ -1,13 +1,14 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 46  
+  Total : 47  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
 |-------------|------------|
 [Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
 [3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
+[4. Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0004-Median-of-Two-Sorted-Arrays.md)|
 [11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
 [22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0022-Generate-Parenthesis.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
@@ -146,6 +147,7 @@
 |3|[875. Koko Eating Bananas (Medium)](https://leetcode.com/problems/koko-eating-bananas/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0875-Koko-Eating-Bananas.md)|
 |4|[153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
 |5|[81. Search in Rotated Sorted Array II (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0081-Search-in-Rotated-Sorted-Array-II.md)|
+|6|[4. Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0004-Median-of-Two-Sorted-Arrays.md)|
 
 </details>
 
