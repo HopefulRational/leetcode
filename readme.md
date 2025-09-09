@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 38  
+  Total : 39  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -9,6 +9,7 @@
 [Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
 [3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
 [11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
+[22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0022-Generate-Parenthesis.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
 [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0042-Trapping-Rain-Water.md)|
@@ -87,6 +88,7 @@
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
 |1|[155. Min Stack (Medium)](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0155-Min-Stack.md)|
+|2|[22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0022-Generate-Parenthesis.md)|
 
 </details>
 
