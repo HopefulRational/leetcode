@@ -57,7 +57,7 @@ timeMap.get(&quot;foo&quot;, 5);         // return &quot;bar2&quot;
 ## Solution
 ```cpp
 class TimeMap {
-	// key -> map(timestamp -> value)
+	// key -> map(timestamp -> value) [descending order; so less is greater]
     unordered_map<string, map<int, string, greater<>>> m;
 public:
     TimeMap() {
@@ -70,6 +70,9 @@ public:
     
     string get(string key, int timestamp) {
         if(!m.count(key)) return "";
+		// lower_bound := 1st value tht does not compare "less" than given value
+		// here, less = greater. So lower_bound gives 1st value
+		// tht does not compare greater than given value, which is what is needed
         auto it = m[key].lower_bound(timestamp);
         return it == m[key].end() ? "" : it->second;
     }
