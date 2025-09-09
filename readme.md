@@ -27,6 +27,7 @@
 [515. Find Largest Value in Each Tree Row (Medium)](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0515-Largest-Value-in-Each-Tree-Row.md)|
 [543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0543-Diameter-of-Binary-Tree.md)|
 [559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0559-Maximum-Depth-of-N-ary-Tree.md)|
+[567. Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0567-Permutation-in-String.md)|
 [684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0684-Redundant-Connection.md)|
 [808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
 [865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
@@ -113,6 +114,7 @@
 |2|[121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0121-Best-Time-To-Buy-And-Sell-Stock.md)|
 |3|[3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
 |4|[424. Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
+|5|[567. Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0567-Permutation-in-String.md)|
 
 </details>
 
