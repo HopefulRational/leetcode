@@ -27,7 +27,7 @@
 [128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0128-Longest-Consecutive-Sequence.md)|
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
-[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
+[141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
 [153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
 [155. Min Stack (Medium)](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0155-Min-Stack.md)|
 [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0206-Reverse-Linked-List.md)|
@@ -88,7 +88,7 @@
 |-----------|-------------|------------|
 |1|[206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0206-Reverse-Linked-List.md)|
 |2|[21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0021-Merge-Two-Sorted-Lists.md)|
-|3|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
+|3|[141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
 
 </details>
 
