@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 48  
+  Total : 49  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -29,6 +29,7 @@
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
 [153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
 [155. Min Stack (Medium)](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0155-Min-Stack.md)|
+[206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0206-Reverse-Linked-List.md)|
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0235-Lowest-Common-Ancestor-BST.md)|
 [239. Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0239-Sliding-Window-Maximum.md)|
 [242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0242-Valid-nagram.md)|
@@ -84,8 +85,7 @@
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| Data 1    | Data 2      | Data 3     |
-| More Data | Centered    | Aligned    |
+|1|[206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0206-Reverse-Linked-List.md)|
 
 </details>
 
