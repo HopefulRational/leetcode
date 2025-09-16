@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 50  
+  Total : 51  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -87,6 +87,7 @@
 |-----------|-------------|------------|
 |1|[206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0206-Reverse-Linked-List.md)|
 |2|[21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0021-Merge-Two-Sorted-Lists.md)|
+|3|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
 
 </details>
 
