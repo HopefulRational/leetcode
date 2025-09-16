@@ -1,12 +1,13 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 47  
+  Total : 48  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
 |-------------|------------|
 [Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
+[Maximum sum of Non-adjacent nodes (Medium) - GFG](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-maximum-sum-of-non-adjacent-nodes.md)|
 [3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
 [4. Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0004-Median-of-Two-Sorted-Arrays.md)|
 [11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
@@ -185,7 +186,7 @@
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| 1|[865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
+|1|[865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0865-Smallest-Subtree-with-all-the-Deepest-Nodes.md)|
 |2|[257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)|[Soluiton](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0257-Binary-Tree-Paths.md)|
 |3|[515. Find Largest Value in Each Tree Row (Medium)](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0515-Largest-Value-in-Each-Tree-Row.md)|
 |4|[1080. Insufficient Nodes in Root to Leaf Paths (Medium)](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1080-Insufficient-Nodes-in-Root-to-Leaf-Paths.md)|
@@ -197,6 +198,7 @@
 |10|[124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0124-Binary-Tree-Maximum-Path-Sum.md)|
 |11|[235. Lowest Common Ancestor of a Binary Search Tree (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0235-Lowest-Common-Ancestor-BST.md)|
 |12|[1034. Coloring A Border (Medium)](https://leetcode.com/problems/coloring-a-border/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1034-Coloring-A-Border.md)|
+|13|[Maximum sum of Non-adjacent nodes (Medium) - GFG](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-maximum-sum-of-non-adjacent-nodes.md)|
 
 </details>
 
