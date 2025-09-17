@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 52  
+  Total : 53  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -11,6 +11,7 @@
 [3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
 [4. Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0004-Median-of-Two-Sorted-Arrays.md)|
 [11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
+[19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0019-Remove-Nth-Node-From-End-of-List.md)|
 [22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0022-Generate-Parenthesis.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
@@ -91,6 +92,7 @@
 |2|[21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0021-Merge-Two-Sorted-Lists.md)|
 |3|[141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
 |4|[143. Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0143-Reorder-List.md)|
+|5|[19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0019-Remove-Nth-Node-From-End-of-List.md)|
 
 </details>
 
