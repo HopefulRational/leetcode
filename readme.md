@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 59  
+  Total : 60  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -16,6 +16,7 @@
 [19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0019-Remove-Nth-Node-From-End-of-List.md)|
 [22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0022-Generate-Parenthesis.md)|
 [23. Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/Special-Subarrays.md)|
+[25. Reverse Nodes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0025-Reverse-Nodes-in-k-Group.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
 [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0042-Trapping-Rain-Water.md)|
@@ -104,6 +105,7 @@
 |8|[287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0287-Find-the-Duplicate-Number.md)|
 |9|[146. LRU Cache (Medium)](https://leetcode.com/problems/lru-cache/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0146-LRU-Cache.md)|
 |10|[23. Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/Special-Subarrays.md)|
+|11|[25. Reverse Nodes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0025-Reverse-Nodes-in-k-Group.md)|
 
 </details>
 
