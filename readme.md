@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 53  
+  Total : 54  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -28,6 +28,7 @@
 [128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0128-Longest-Consecutive-Sequence.md)|
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
+[138. Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0138-Copy-List-with-Random-Pointer.md)|
 [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
 [143. Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0143-Reorder-List.md)|
 [153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
@@ -93,6 +94,7 @@
 |3|[141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
 |4|[143. Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0143-Reorder-List.md)|
 |5|[19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0019-Remove-Nth-Node-From-End-of-List.md)|
+|6|[138. Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0138-Copy-List-with-Random-Pointer.md)|
 
 </details>
 
