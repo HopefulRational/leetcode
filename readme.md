@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 51  
+  Total : 52  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -28,6 +28,7 @@
 [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0130-Surrounded-Regions.md)|
 [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
 [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
+[143. Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0143-Reorder-List.md)|
 [153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
 [155. Min Stack (Medium)](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0155-Min-Stack.md)|
 [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0206-Reverse-Linked-List.md)|
@@ -89,6 +90,7 @@
 |1|[206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0206-Reverse-Linked-List.md)|
 |2|[21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0021-Merge-Two-Sorted-Lists.md)|
 |3|[141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
+|4|[143. Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0143-Reorder-List.md)|
 
 </details>
 
