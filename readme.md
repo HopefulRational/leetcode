@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 55  
+  Total : 56  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -39,6 +39,7 @@
 [239. Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0239-Sliding-Window-Maximum.md)|
 [242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0242-Valid-nagram.md)|
 [257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)|[Soluiton](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0257-Binary-Tree-Paths.md)|
+[287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0287-Find-the-Duplicate-Number.md)|
 [424. Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0424-Longest-Repeating-Character-Replacement.md)|
 [515. Find Largest Value in Each Tree Row (Medium)](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0515-Largest-Value-in-Each-Tree-Row.md)|
 [543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0543-Diameter-of-Binary-Tree.md)|
@@ -97,6 +98,7 @@
 |5|[19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0019-Remove-Nth-Node-From-End-of-List.md)|
 |6|[138. Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0138-Copy-List-with-Random-Pointer.md)|
 |7|[2. Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0002-Add-Two-Numbers.md)|
+|8|[287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0287-Find-the-Duplicate-Number.md)|
 
 </details>
 
