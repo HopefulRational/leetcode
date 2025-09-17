@@ -1,13 +1,14 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 54  
+  Total : 55  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
 |-------------|------------|
 [Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
 [Maximum sum of Non-adjacent nodes (Medium) - GFG](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-maximum-sum-of-non-adjacent-nodes.md)|
+[2. Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0002-Add-Two-Numbers.md)|
 [3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0003-Longest-Substring-without-Repeating-Characters.md)|
 [4. Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0004-Median-of-Two-Sorted-Arrays.md)|
 [11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
@@ -95,6 +96,7 @@
 |4|[143. Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0143-Reorder-List.md)|
 |5|[19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0019-Remove-Nth-Node-From-End-of-List.md)|
 |6|[138. Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0138-Copy-List-with-Random-Pointer.md)|
+|7|[2. Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0002-Add-Two-Numbers.md)|
 
 </details>
 
