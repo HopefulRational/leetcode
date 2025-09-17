@@ -1,11 +1,12 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 57  
+  Total : 58  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
 |-------------|------------|
+[Special Subarrays](https://github.com/HopefulRational/leetcode/blob/main/cpp/Special-Subarrays.md)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/Special-Subarrays.md)|
 [Encode and Decode Strings (Medium) - NeetCode](https://neetcode.io/problems/string-encode-and-decode)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/NC-Encode-And-Decode-Strings.md)|
 [Maximum sum of Non-adjacent nodes (Medium) - GFG](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-maximum-sum-of-non-adjacent-nodes.md)|
 [2. Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0002-Add-Two-Numbers.md)|
@@ -300,8 +301,7 @@
 
 | Num       | Problem     | Solution   |
 |-----------|-------------|------------|
-| Data 1    | Data 2      | Data 3     |
-| More Data | Centered    | Aligned    |
+|1|[Special Subarrays](https://github.com/HopefulRational/leetcode/blob/main/cpp/Special-Subarrays.md)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/Special-Subarrays.md)|
 
 </details>
 
