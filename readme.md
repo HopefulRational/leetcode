@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 56  
+  Total : 57  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -32,6 +32,7 @@
 [138. Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0138-Copy-List-with-Random-Pointer.md)|
 [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0141-Linked-List-Cycle.md)|
 [143. Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0143-Reorder-List.md)|
+[146. LRU Cache (Medium)](https://leetcode.com/problems/lru-cache/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0146-LRU-Cache.md)|
 [153. Find Minimum in Rotated Sorted Array(Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.md)|
 [155. Min Stack (Medium)](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0155-Min-Stack.md)|
 [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0206-Reverse-Linked-List.md)|
@@ -99,6 +100,7 @@
 |6|[138. Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0138-Copy-List-with-Random-Pointer.md)|
 |7|[2. Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0002-Add-Two-Numbers.md)|
 |8|[287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0287-Find-the-Duplicate-Number.md)|
+|9|[146. LRU Cache (Medium)](https://leetcode.com/problems/lru-cache/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0146-LRU-Cache.md)|
 
 </details>
 
