@@ -1,7 +1,7 @@
 # leetcode solutions
 [LLD Solutions](https://github.com/HopefulRational/leetcode/tree/main/LLD-Codes)
 <details>
-  Total : 58  
+  Total : 59  
 <summary>All Solutions</summary>
 
 | Problem     | Solution   |
@@ -15,6 +15,7 @@
 [11. Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0011-Container-With-Most-Water.md)|
 [19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0019-Remove-Nth-Node-From-End-of-List.md)|
 [22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0022-Generate-Parenthesis.md)|
+[23. Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/Special-Subarrays.md)|
 [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0036-Valid-Sudoku.md)|
 [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0039-Combination-Sum.md)|
 [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0042-Trapping-Rain-Water.md)|
@@ -102,6 +103,7 @@
 |7|[2. Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0002-Add-Two-Numbers.md)|
 |8|[287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0287-Find-the-Duplicate-Number.md)|
 |9|[146. LRU Cache (Medium)](https://leetcode.com/problems/lru-cache/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0146-LRU-Cache.md)|
+|10|[23. Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/Special-Subarrays.md)|
 
 </details>
 
