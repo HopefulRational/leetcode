@@ -296,7 +296,7 @@
 |-----------|-------------|------------|
 |1|[808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
 |2|[62. Unique Paths (Medium)](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0062-Unique-Paths.md)|
-|||[Solution]()|
+|3|[120. Triangle (Medium)](https://leetcode.com/problems/triangle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0120-Triangle.md)|
 |||[Solution]()|
 |||[Solution]()|
 |||[Solution]()|
