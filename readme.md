@@ -297,7 +297,7 @@
 |1|[808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0808-Soup-Savings.md)|
 |2|[62. Unique Paths (Medium)](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0062-Unique-Paths.md)|
 |3|[120. Triangle (Medium)](https://leetcode.com/problems/triangle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0120-Triangle.md)|
-|||[Solution]()|
+|4|[Maximum path sum in matrix (Medium) - GFG](https://www.geeksforgeeks.org/problems/path-in-matrix3805/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-max-sum-without-adjacents2430.md)|
 |||[Solution]()|
 |||[Solution]()|
 |||[Solution]()|
