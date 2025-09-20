@@ -275,7 +275,7 @@
 |1|[70. Climbing Stairs (Easy)](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0070-Climbing-Stairs.md)|
 |2|[Max Sum without Adjacents (Medium) - GFG](https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-max-sum-without-adjacents2430.md)|
 |3|[198. House Robber (Medium)](https://leetcode.com/problems/house-robber/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0198-House-Robber.md)|
-|||[Solution]()|
+|4|[213. House Robber II (Medium)](https://leetcode.com/problems/house-robber-ii/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0213-House-Robber-II.md)|
 |||[Solution]()|
 |||[Solution]()|
 |||[Solution]()|
