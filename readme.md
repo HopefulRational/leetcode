@@ -298,7 +298,7 @@
 |2|[62. Unique Paths (Medium)](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0062-Unique-Paths.md)|
 |3|[120. Triangle (Medium)](https://leetcode.com/problems/triangle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0120-Triangle.md)|
 |4|[Maximum path sum in matrix (Medium) - GFG](https://www.geeksforgeeks.org/problems/path-in-matrix3805/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-max-sum-without-adjacents2430.md)|
-|||[Solution]()|
+|5|[1463. Cherry Pickup II (Hard)](https://leetcode.com/problems/cherry-pickup-ii/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1463-Cherry-Pickup-II.md)|
 |||[Solution]()|
 |||[Solution]()|
 
