@@ -299,7 +299,7 @@
 |3|[120. Triangle (Medium)](https://leetcode.com/problems/triangle/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0120-Triangle.md)|
 |4|[Maximum path sum in matrix (Medium) - GFG](https://www.geeksforgeeks.org/problems/path-in-matrix3805/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-max-sum-without-adjacents2430.md)|
 |5|[1463. Cherry Pickup II (Hard)](https://leetcode.com/problems/cherry-pickup-ii/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1463-Cherry-Pickup-II.md)|
-|||[Solution]()|
+|6|[416. Partition Equal Subset Sum (Medium)](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0416-Partition-Equal-Subset-Sum.md)|
 |||[Solution]()|
 
 </details>
