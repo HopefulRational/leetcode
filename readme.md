@@ -251,11 +251,16 @@
 |7|[BFS of graph (Easy) - GFG](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-bfs-traversal-of-graph.md)
 |8|[DFS of Graph (Easy) - GFG](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-depth-first-traversal-for-a-graph.md)
 |9|[Number of Provinces (Medium) - GFG](https://www.geeksforgeeks.org/problems/number-of-provinces/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-number-of-provinces.md)
-|10|[]()|[Solution]()
-|11|[]()|[Solution]()
-|12|[]()|[Solution]()
-|13|[]()|[Solution]()
-|14|[]()|[Solution]()
+|10|[Find the number of islands (Medium) - GFG](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-find-the-number-of-islands.md)
+|11|[Flood Fill Algorithm (Medium) - GFG](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-flood-fill-algorithm1856.md)
+|12|[Rotten Oranges (Medium) - GFG](https://www.geeksforgeeks.org/problems/rotten-oranges2536/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-rotten-oranges2536.md)
+|13|[Undirected Graph Cycle (Medium) - GFG](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-detect-cycle-in-an-undirected-graph.md)
+|14|[Distance of nearest cell having 1 (Medium) - GFG](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-distance-of-nearest-cell-having-1-1587115620.md)
+|15|[Replace O's with X's (Medium) - GFG](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-replace-os-with-xs0052.md)
+|16|[Number Of Enclaves (Medium) - GFG](https://www.geeksforgeeks.org/problems/number-of-enclaves/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-number-of-enclaves.md)
+|17|[Number of Distinct Islands (Medium) - GFG](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-number-of-distinct-islands.md)
+|18|[]()|[Solution]()
+|19|[]()|[Solution]()
 
 </details>
 
