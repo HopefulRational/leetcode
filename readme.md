@@ -248,6 +248,14 @@
 |4|[1559. Detect Cycles in 2D Grid (Medium)](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-1559-Detect-Cycles-in-2D-Grid.md)|
 |5|[684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0684-Redundant-Connection.md)|
 |6|[133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/LC-0133-Clone-Graph.md)|
+|7|[BFS of graph (Easy) - GFG](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-bfs-traversal-of-graph.md)
+|8|[DFS of Graph (Easy) - GFG](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-depth-first-traversal-for-a-graph.md)
+|9|[Number of Provinces (Medium) - GFG](https://www.geeksforgeeks.org/problems/number-of-provinces/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-number-of-provinces.md)
+|10|[]()|[Solution]()
+|11|[]()|[Solution]()
+|12|[]()|[Solution]()
+|13|[]()|[Solution]()
+|14|[]()|[Solution]()
 
 </details>
 
