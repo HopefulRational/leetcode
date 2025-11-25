@@ -259,8 +259,14 @@
 |15|[Replace O's with X's (Medium) - GFG](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-replace-os-with-xs0052.md)
 |16|[Number Of Enclaves (Medium) - GFG](https://www.geeksforgeeks.org/problems/number-of-enclaves/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-number-of-enclaves.md)
 |17|[Number of Distinct Islands (Medium) - GFG](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-number-of-distinct-islands.md)
-|18|[]()|[Solution]()
-|19|[]()|[Solution]()
+|18|[Bipartite Graph (Medium) - GFG](https://www.geeksforgeeks.org/problems/bipartite-graph/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-bipartite-graph.md)
+|19|[Detect cycle in a direct graph (Medium) - GFG](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)|[Solution](https://github.com/HopefulRational/leetcode/blob/main/cpp/GFG-detect-cycle-in-a-directed-graph.md)
+|20|[]()|[Solution]()
+|21|[]()|[Solution]()
+|22|[]()|[Solution]()
+|23|[]()|[Solution]()
+|24|[]()|[Solution]()
+
 
 </details>
 
